@@ -1,0 +1,7 @@
+/Users/anthonyeberechukwuochuba/Desktop/WebApp/SadiqWebApp/bin/Release/net8.0/publish/SadiqWebApp
+/Users/anthonyeberechukwuochuba/Desktop/WebApp/SadiqWebApp/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/anthonyeberechukwuochuba/Desktop/WebApp/SadiqWebApp/bin/Release/net8.0/publish/appsettings.json
+/Users/anthonyeberechukwuochuba/Desktop/WebApp/SadiqWebApp/bin/Release/net8.0/publish/SadiqWebApp.dll
+/Users/anthonyeberechukwuochuba/Desktop/WebApp/SadiqWebApp/bin/Release/net8.0/publish/SadiqWebApp.deps.json
+/Users/anthonyeberechukwuochuba/Desktop/WebApp/SadiqWebApp/bin/Release/net8.0/publish/SadiqWebApp.runtimeconfig.json
+/Users/anthonyeberechukwuochuba/Desktop/WebApp/SadiqWebApp/bin/Release/net8.0/publish/SadiqWebApp.pdb
