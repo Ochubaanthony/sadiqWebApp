@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SadiqWebApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+648dd6519a9adbe3211aae311299fe4495aaef89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+381e43fe093ad5bdb44d09188e85915ad04bd37c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SadiqWebApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SadiqWebApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
